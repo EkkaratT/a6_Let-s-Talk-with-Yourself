@@ -3,12 +3,6 @@
 ## Project Overview
 This project is a web-based chatbot that utilizes **Retrieval-Augmented Generation (RAG)** within the **LangChain** framework to answer questions about a specific individual (Pete). The chatbot retrieves relevant information from personal documents, academic records, and professional details to generate structured and contextually accurate responses.
 
-## Features
-- **Interactive Chat Interface** – Users can engage with the chatbot via a web-based UI.
-- **AI-Generated Responses** – The chatbot generates coherent answers using advanced language models.
-- **Reference Document Retrieval** – Supports responses with relevant sources from personal and academic documents.
-- **Real-Time Processing** – Dynamically retrieves and generates responses based on user queries.
-
 ---
 
 ## Task 1: Source Discovery
@@ -135,8 +129,14 @@ This project is a web-based chatbot designed to answer questions about Pete usin
 ### Tech Stack
 - **Backend:** Python, LangChain, FAISS
 - **Frontend:** Streamlit (or Flask/FastAPI for API)
-- **Models:** GPT-4, DeepHermes-3B, FastChat-T5-3B
-- **Deployment:** Local or cloud-based hosting
+- **Models:**  FastChat-T5-3B
+- **Deployment:** Local 
+
+### Features
+- **Interactive Chat Interface** – Users can engage with the chatbot via a web-based UI.
+- **AI-Generated Responses** – The chatbot generates coherent answers using advanced language models.
+- **Reference Document Retrieval** – Supports responses with relevant sources from personal and academic documents.
+- **Real-Time Processing** – Dynamically retrieves and generates responses based on user queries.
 
 ---
 ![1](https://github.com/user-attachments/assets/2e9d4fd7-8c59-4c7c-b608-6a9b81b22f8f)
