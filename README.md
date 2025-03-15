@@ -139,6 +139,11 @@ This project is a web-based chatbot designed to answer questions about Pete usin
 - **Deployment:** Local or cloud-based hosting
 
 ---
+![1](https://github.com/user-attachments/assets/2e9d4fd7-8c59-4c7c-b608-6a9b81b22f8f)
+![2](https://github.com/user-attachments/assets/e1e030b7-88f5-4306-9277-f82438659bd4)
+![3](https://github.com/user-attachments/assets/2f98e849-bb2c-4376-8d5e-6d50efb142bb)
+![4](https://github.com/user-attachments/assets/c5385a9b-9d7d-4ae8-a06c-8997c8d854a7)
+![5](https://github.com/user-attachments/assets/d9ffd7ed-8f12-4249-9309-d3b6ab527109)
 
 ## How to Run the Chatbot
 
