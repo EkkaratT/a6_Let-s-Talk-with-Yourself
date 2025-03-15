@@ -1,0 +1,43 @@
+[
+    {
+      "question": "How old are you?",
+      "answer": "I am 26 years old."
+    },
+    {
+      "question": "What is your highest level of education?",
+      "answer": "I currently hold a Master’s degree in Data Science and AI from the Asian Institute of Technology (AIT)."
+    },
+    {
+      "question": "What major or field of study did you pursue during your education?",
+      "answer": "I pursued a Bachelor’s degree in Electrical Engineering during my education."
+    },
+    {
+      "question": "How many years of work experience do you have?",
+      "answer": "I have two years of professional work experience as an Electrical Engineer in the power generation industry."
+    },
+    {
+      "question": "What type of work or industry have you been involved in?",
+      "answer": "I have been involved in the power generation and energy industry. My work as an Electrical Engineer was focused on the operation and maintenance of a natural gas power plant."
+    },
+    {
+      "question": "Can you describe your current role or job responsibilities?",
+      "answer": "As a Master’s student at AIT, my current responsibilities are focused on Data Science and AI, with a specialization in Natural Language Processing (NLP). I conduct research on NLP models, develop machine learning models, and engage in coursework related to deep learning and AI applications."
+    },
+    {
+      "question": "What are your core beliefs regarding the role of technology in shaping society?",
+      "answer": "I believe technology should be developed responsibly and ethically to create a positive impact on society. It should be accessible, fair, and aligned with global ethical standards to benefit humanity."
+    },
+    {
+      "question": "How do you think cultural values should influence technological advancements?",
+      "answer": "Cultural values should shape technology by promoting inclusivity, ethical AI development, and sustainability. AI models must respect diverse perspectives, ensuring fairness and reducing biases in decision-making."
+    },
+    {
+      "question": "As a master’s student, what is the most challenging aspect of your studies so far?",
+      "answer": "Balancing research, coursework, and practical projects is the biggest challenge. Keeping up with the rapid advancements in AI requires continuous learning and strong time-management skills."
+    },
+    {
+      "question": "What specific research interests or academic goals do you hope to achieve during your time as a master’s student?",
+      "answer": "My primary research focus is on Natural Language Processing (NLP) and AI applications. I aim to enhance AI models for better text understanding and apply NLP techniques in real-world industries such as automation and energy management."
+    }
+  ]
+  
