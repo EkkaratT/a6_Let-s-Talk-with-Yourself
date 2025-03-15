@@ -10,9 +10,11 @@ This project is a web-based chatbot that utilizes **Retrieval-Augmented Generati
 ### 1.1 Find All Relevant Sources Related to Yourself (1 Point)
 To build an AI chatbot that answers questions about myself, I gathered the following sources of information:
 
-### List of Reference Documents
+### List of Relevant Reference Documents
 
-1. **Personal Profile Document (Self-Created) – [Primary Source]**
+#### Personal Profile (Pete's Background)
+- Contains personal details, educational background, work experience, research interests, and career goals.
+   1. **Personal Profile Document (Self-Created) – [Primary Source]**
    - Contains:
      - Full Name, Age, Education, and Work Experience
      - Research Interests (NLP, AI, Data Science)
@@ -20,29 +22,31 @@ To build an AI chatbot that answers questions about myself, I gathered the follo
      - Hobbies & Interests
    - Purpose:
      - Serves as the main knowledge source for chatbot responses.
-
-2. **University & Academic Information**
+   
+   2. **University & Academic Information**
    - **Asian Institute of Technology (AIT) Website**
      - Confirms my enrollment in a Master’s Degree in Data Science & AI.
    - **Chiang Mai University Website**
      - Verifies my Bachelor's Degree in Electrical Engineering (2021).
    - **Coursework & Research Papers**
      - Includes topics on Machine Learning, NLP, AI applications.
-
-3. **Professional & Industry Information**
+       
+   3. **Professional & Industry Information**
    - **Company Documentation (if available)**
      - Details my 2 years of work experience as an Electrical Engineer in a Natural Gas Power Plant (Rayong, Thailand).
    - **Industry Reports & Case Studies**
-     - Provides background on Power Generation, AI in Energy.
-
-4. **AI & NLP Research Sources**
-   - Machine Learning & NLP Books, Online Courses
-   - GitHub Projects (if applicable)
-   - Research Papers on AI & NLP
-
-5. **Personal & Social Media Profiles (Optional)**
-   - **LinkedIn Profile** – Professional background, work experience.
-   - **Personal Blog or Website (if applicable)** – Technical write-ups, AI projects.
+     - Provides background on Power Generation.
+       
+- Includes beliefs on technology, AI, cultural values, and challenges faced as a master's student.
+       
+#### Resume - Ekkarat Techanawakarnkul
+- A structured resume with details on work experience, education, projects, and skills.
+- Highlights key projects such as:
+  - **Battery Management System for Electric Vehicles**
+  - **CO₂ Emission Prediction for Power Generation (Machine Learning)**
+  - **Customer Segmentation using K-Means Clustering**
+- Lists programming skills: **Python, SQL**, data analysis expertise, and machine learning knowledge.
+- Provides contact details: **email, phone, GitHub, LinkedIn**.
 
 ### Why These Sources?
 - Ensures factual accuracy – Data comes from official and personal sources.
