@@ -7,7 +7,7 @@ This project is a web-based chatbot that utilizes **Retrieval-Augmented Generati
 
 ## Task 1: Source Discovery
 
-### 1.1 Find All Relevant Sources Related to Yourself (1 Point)
+### 1.1 Find All Relevant Sources Related to Yourself 
 To build an AI chatbot that answers questions about myself, I gathered the following sources of information:
 
 ### List of Relevant Reference Documents
@@ -55,7 +55,7 @@ To build an AI chatbot that answers questions about myself, I gathered the follo
 
 ---
 
-### 1.2 Design a Prompt for the Chatbot (0.5 Point)
+### 1.2 Design a Prompt for the Chatbot 
 To ensure that the chatbot provides informative and structured responses about myself, I designed the following prompt template:
 
 #### Chatbot Prompt Template
@@ -72,7 +72,7 @@ Hello! I am PeteBot, your AI assistant, here to answer questions about Pete in a
 
 ---
 
-### 1.3 Explore Other Text-Generation Models (0.5 Point)
+### 1.3 Explore Other Text-Generation Models
 Different text-generation models can enhance AI capabilities by improving the accuracy and reliability of responses. Here are three models I tested:
 
 1. **FastChat-T5-3B (Base Model)**
@@ -91,7 +91,7 @@ Different text-generation models can enhance AI capabilities by improving the ac
 
 ## Task 2: Analysis and Problem Solving
 
-### 2.1 List of Retriever and Generator Models Used (0.25 Point)
+### 2.1 List of Retriever and Generator Models Used 
 This project applies **Retrieval-Augmented Generation (RAG)**, which includes:
 - **Retriever Model:** FAISS (Facebook AI Similarity Search) for document retrieval.
 - **Generator Models:**
@@ -101,7 +101,7 @@ This project applies **Retrieval-Augmented Generation (RAG)**, which includes:
 
 ---
 
-### 2.2 Analysis of Issues Related to Models Providing Unrelated Information (0.25 Point)
+### 2.2 Analysis of Issues Related to Models Providing Unrelated Information
 
 #### A. Issues with the Retriever (FAISS)
 - **Problem:** The retriever may fetch documents that are not closely related to the question.
