@@ -145,11 +145,3 @@ This project is a web-based chatbot designed to answer questions about Pete usin
 ![4](https://github.com/user-attachments/assets/c5385a9b-9d7d-4ae8-a06c-8997c8d854a7)
 ![5](https://github.com/user-attachments/assets/d9ffd7ed-8f12-4249-9309-d3b6ab527109)
 
-## How to Run the Chatbot
-
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-pip install -r requirements.txt
-python app.py
-```
